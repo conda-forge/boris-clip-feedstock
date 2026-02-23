@@ -1,5 +1,5 @@
 context:
-  version: 0.1.1
+  version: 0.2.0
 
 package:
   name: boris-clip
@@ -7,7 +7,7 @@ package:
 
 source:
 - url: https://pypi.org/packages/source/b/boris-clip/boris_clip-${{ version }}.tar.gz
-  sha256: d8d2de9e03901931b510afeaa846c21271c0a78dd48f8aab17d09d11ca0bae9c
+  sha256: 0775db115a8a47229439f51af7bb630d0a0f977c146669c2097dfdd167584041
 
 build:
   number: 0
